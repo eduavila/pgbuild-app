@@ -14,7 +14,6 @@ Basic application to test and demonstrate icons and splash screens.
 Hardeep Shoker
 </author>
 
-<preference name="phonegap-version" value="1.7.0" />
 
 <!-- Icons -->
 
@@ -42,7 +41,7 @@ Hardeep Shoker
 <gap:splash src="splash/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
 <gap:splash src="splash/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="splash/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
-<gap:splash src="splash/bb/splash.png" gap:platform="blackberry" />
+
 <gap:splash src="splash/winphone/splash.jpg" gap:platform="winphone" />
 
 </widget>
